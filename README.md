@@ -1,5 +1,5 @@
 # VIDEO EXPLICATIVO
-Link:
+Link:https://youtu.be/XY68jO9qBoc
 
 # APLICACIÓN DE PRINCIPIOS Y ARQUITECTURAS DE SISTEMAS HIPERMEDIA
 Este script de Unity maneja la pausa y la reanudación del juego. Puede ser asociado a un botón en la interfaz de usuario y también responde a la tecla "P". Cuando se hace clic en el botón o se presiona la tecla "P", llama a la función CambiarEstadoPausa(), que invierte el estado de pausa del juego, pausando o reanudando el tiempo según el estado actual. Además, actualiza el texto del botón para reflejar el nuevo estado.
